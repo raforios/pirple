@@ -1,0 +1,13 @@
+[
+{"pizzaId" : 1, "pizzaName" : "4 QUESOS", "ingredients" : "Combinación de quesos: cheddar, extra mozzarella, provolone y parmesano.", "price" : 8}, 
+{"pizzaId" : 2, "pizzaName" : "CAMPESINA", "ingredients" : "Pollo, pimiento verde, champiñones y extra queso.", "price" : 6}, 
+{"pizzaId" : 3, "pizzaName" : "HAWAIANA", "ingredients" : "Jamón, piña y extra queso.", "price" : 9}, 
+{"pizzaId" : 4, "pizzaName" : "MARGARITA", "ingredients" : "Jamón, tomate, champiñones y extra queso.", "price" : 10}, 
+{"pizzaId" : 5, "pizzaName" : "NATURISTA", "ingredients" : "Champiñones, choclo, aceitunas y extra queso.", "price" : 7}, 
+{"pizzaId" : 6, "pizzaName" : "PEPPERONI ESPECIAL", "ingredients" : "Doble porción de pepperoni y extra queso.", "price" : 12}, 
+{"pizzaId" : 7, "pizzaName" : "AMERICANA", "ingredients" : "Salsa de tomate, queso mozzarella, jamón, carne, salchicha italiana, tocino, pepperoni y extra queso.", "price" : 14}, 
+{"pizzaId" : 8, "pizzaName" : "BBQ CHICKEN", "ingredients" : "Pollo, cebolla, salsa barbecue, queso cheddar, provolone y extra queso.", "price" : 5}, 
+{"pizzaId" : 9, "pizzaName" : "DELUXE", "ingredients" : "Pepperoni, cebolla, pimiento verde, salchicha italiana, champiñones y extra queso.", "price" : 20}, 
+{"pizzaId" : 10, "pizzaName" : "EXTRAVAGANZZA", "ingredients" : "Jamón, carne, pepperoni, salchicha italiana, aceitunas, cebolla, pimiento verde, champiñones y extra queso.", "price" : 16}, 
+{"pizzaId" : 11, "pizzaName" : "VEGETARIANA", "ingredients" : "Aceitunas, cebolla, pimiento verde, champiñones, choclo y extra queso.", "price" : 14}
+]
